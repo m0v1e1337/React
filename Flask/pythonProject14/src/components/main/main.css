@@ -1,0 +1,17 @@
+.main {
+  padding: 20px;
+}
+
+.main__title {
+  margin-top: 0;
+}
+
+.main__text {
+  margin-bottom: 20px;
+}
+
+.main__image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
